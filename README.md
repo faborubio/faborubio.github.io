@@ -1,6 +1,6 @@
 # faborubio.github.io
 
-Redirección de **[faborubio.github.io](https://faborubio.github.io/)** → **[fabian-portafolio.web.app](https://fabian-portafolio.web.app/)**, mi portafolio personal.
+Redirección de **[faborubio.github.io](https://faborubio.github.io/)** → **[faborubio.dev](https://faborubio.dev/)**, mi portafolio personal.
 
 ## ¿Por qué existe?
 
